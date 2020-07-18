@@ -1,0 +1,58 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "restaurant_id": 1,
+      "breakfast": [
+        {
+          "name": "Bacon, Egg & Cheese Biscuit",
+          "calories": "460 cal",
+          "description": "Bacon, Egg & Cheese Biscuit features a warm, buttermilk biscuit brushed with real butter, thick cut Applewood smoked bacon, a fluffy folded egg, and a slice of melty American cheese.",
+          "image_url": "https://images.eatthismuch.com/site_media/img/576343_tabitharwheeler_a4538564-be97-4f56-a8db-86810ea0bd66.jpg"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "calories": "300 cal",
+          "description": "This breakfast sandwich is an excellent source of protein and oh so delicious. We place a freshly cracked Grade A egg on a toasted English Muffin topped with real butter and add lean Canadian bacon and melty American cheese. And all that for 300 calories."
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "restaurant_id": 2,
+      "breakfast": [
+        {
+          "name": "BACON CHEDDAR GRILLED CHICKEN SANDWICH",
+          "calories": "860 cal",
+          "description": "Our grilled chicken breast is topped with two strips of Applewood-smoked bacon and Cheddar, then finished with tangy house-made BBQ ranch, crisp lettuce, tomato, onion and pickles on a Brioche bun.",
+          "price": "$11.99"
+        },
+        {
+          "name": "Egg McMuffin®",
+          "calories": "1480 cal",
+          "description": "Our long-running favorite salad, all wrapped up. Crispy breaded chicken tenders with fresh Asian greens, crunchy rice noodles and almonds rolled up in a warm flour tortilla. Served with Oriental vinaigrette on the side.",
+          "price": "$10.99"
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "restaurant_id": 3,
+      "breakfast": [{
+        "name": "Breakfast Tacos",
+        "calories": "340 cal" ,
+        "description": "Three soft corn or flour tortillas with scrambled eggs, meat, salsa and cheese or sour cream" ,
+        "price": "5.99"
+      },
+        {
+        "name":"Breakfast Burrito" ,
+        "calories": "300 cal" ,
+        "description":"Flour tortilla with crispy herbed potatoes, black or pinto beans, scrambled eggs, meat, salsa and cheese or sour cream." ,
+        "price": "$6.99"
+        }
+      ]
+    }
+  ]
+}

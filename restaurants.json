@@ -1,0 +1,6 @@
+{
+  "restaurants": [
+    {"name":"Parallax Restaurant", "id": 1},
+    {"name":"Applebees","id": 2},
+    {"name":"Chipotle","id": 3}]
+}
